@@ -1,0 +1,9 @@
+crop,season,soil_type,water_requirements,harvest_time
+Wheat,Rabi,Loamy,Medium,120-140 days
+Rice,Kharif,Clayey,High,150-180 days
+Corn,Kharif,Well-drained,Medium,100-120 days
+Soybean,Kharif,Well-drained,Medium,100-120 days
+Potato,Rabi,Sandy loam,Medium,90-120 days
+Tomato,All,Well-drained,High,70-90 days
+Cotton,Kharif,Black,Low,180-200 days
+Sugarcane,All,Alluvial,High,300-365 days
